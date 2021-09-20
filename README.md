@@ -4,8 +4,7 @@ Project Name:
 
 Project Description:
 
-        This is Full-Stack Web Application named "Online-Grocery-Store-System"
- where we can add new product,view product list,edit product and delete product from product list.
+        This is Full-Stack Web Application named "Online-Grocery-Store-System" where we can add new product,view product list,edit product and delete product from product list.
         
 Technologies Used:
         
