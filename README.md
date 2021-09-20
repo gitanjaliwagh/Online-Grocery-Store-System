@@ -4,11 +4,11 @@ Project Name:
 
 Project Description:
 
-        This is Full-Stack Web Application named "Grocery Application" where we can add new product,view product list,edit product and delete product from product list.
+        This is Full-Stack Web Application named " Online-Grocery-Store-System" where we can add new product,view product list,edit product and delete product from product list.
         
 Technologies Used:
         
-         Angular(HTML,CSS &Type Script) used for front end and .Spring Boot ,JAVA .MYSQL BD for Backend.
+         Angular(HTML,CSS &Type Script) used for frontend.
          
 Features:
 
@@ -17,9 +17,9 @@ Features:
 
 Getting Started:
 
-         git remote add origin https://github.com/gitanjaliwagh/gitanjaliwagh.git
-         Compile and run the angular and Spring code
-         run main application file in Spring Boot and use ng serve command in cmd.
+         git remote add origin https://github.com/gitanjaliwagh/Online-Grocery-Store-System.git
+         run the angular apllication using "ng serve" command in cmd.
+       
          
 Usage:
 
